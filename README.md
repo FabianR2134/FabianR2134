@@ -1,5 +1,6 @@
-<h1 align="center"><b>Hi , I'm Fabian Rojas Alpízar </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=35&duration=4000&pause=1000&color=39FF14&center=true&vCenter=true&width=800&height=80&lines=++%F0%9F%96%A5%EF%B8%8F+WELCOME+TO+MY+DIGITAL+REALM+%F0%9F%95%B9%EF%B8%8F;DEVELOPER+%7C+CYBER+%7C+TECH++%E2%9A%94%EF%B8%8F" alt="Cyber Banner">
+</div>
 <img align="right" alt="GIF" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" />
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
@@ -40,10 +41,38 @@ I’m also a bug bounty hunter 🐞, CTF player 🧠, and love learning how real
 ---
 ![snake gif](https://github.com/TekyaygilFethi/TekyaygilFethi/blob/output/github-contribution-grid-snake.svg)
 
-## GitHub Stats
+<h2 align="center">GitHub Stats</h2>
 
-<img src="https://github-readme-stats.vercel.app/api?username=FabianR2134&show_icons=true&hide_border=true&count_private=true&theme=tokyonight&icon_color=fad000" alt="Fabian's GitHub Stats">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=FabianR2134&count_private=true&theme=radical" alt="Fabian's Streak" />
-<img align="center" width=500 src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabianR2134&count_private=true&theme=radical" alt="Top Langs" />
+<div align="center" style="display: flex; flex-direction: column; align-items: center; gap: 5px;">
+
+  <!-- Parte superior de la pirámide -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=FabianR2134&show_icons=true&hide_border=true&count_private=true&theme=tokyonight&icon_color=fad000" 
+    alt="GitHub Stats"
+    style="max-width: 600px; width: 50%;"
+  />
+
+</div>
+
+<div align="center" style="display: flex; flex-direction: column; align-items: center; gap: 5px;">
+
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=FabianR2134&count_private=true&theme=radical" 
+    alt="GitHub Streak"
+    style="max-width: 290px; width: 50%;"
+  />
+
+</div>
+  <div align="center" style="display: flex; flex-direction: column; align-items: center; gap: 5px;">
+
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabianR2134&count_private=true&theme=radical" 
+    alt="Top Languages"
+    style="max-width: 290px; width: 50%;"
+  />
+
+
+</div>
+
 
 ---
